@@ -1,7 +1,11 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=480&lines=Hi+%F0%9F%91%8B+I'm+Vivien%2C+Flutter+Dev;Passionate+about+clean+UIs+%26+code;Learning+one+commit+at+a+time!" alt="Typing SVG" />
+</div>
+
 # 📱 About Me
 
 👋 Hey there! I'm **Vivien**, a Beninese tech enthusiast focused on **mobile app development with Flutter & Dart**.  
-🎓 2nd-year Computer Science student building strong skills in **front-end**, **UI/UX**, and **system administration**.  
+🎓 3nd-year Computer Science student building strong skills in **front-end**, **UI/UX**, and **system administration**.  
 🧠 Passionate about clean code, beautiful UIs, and learning by doing — one commit at a time.
 
 ---
@@ -28,11 +32,21 @@
 
 ---
 
+## ✨ What Drives Me
+
+I focus on building functional, user-friendly mobile apps with attention to detail.  
+My goal is to improve consistently by writing clean code and learning from every challenge.  
+> _Code with clarity, grow with purpose._
+
+---
+
 ## 📊 GitHub Highlights
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asvpxvivien&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asvpxvivien&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asvpxvivien&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asvpxvivien&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asvpxvivien&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</div>
+
 
 ---
 
@@ -45,4 +59,4 @@
 
 [![](https://visitcount.itsvg.in/api?id=asvpxvivien&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- Profile powered by GPRM (https://gprm.itsvg.in) -->
+<!-- Built with ❤️ by Vivien using GPRM ( https://gprm.itsvg.in ) -->
