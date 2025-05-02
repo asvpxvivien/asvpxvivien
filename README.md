@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=480&lines=Hi+%F0%9F%91%8B+I'm+Vivien%2C+Flutter+Dev;Passionate+about+clean+UIs+%26+code;Learning+one+commit+at+a+time!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=480&lines=Hi+%F0%9F%91%8B+I'm+Vivien%2C+Flutter+Dev;Passionate+about+clean+UIs+%26+code;Learning+one+commit+at+time!" alt="Typing SVG" />
 </div>
 
 # 📱 About Me
 
-👋 Hey there! I'm **Vivien**, a Beninese tech enthusiast focused on **mobile app development with Flutter & Dart**.  
+👋 Tech enthusiast focused on **mobile app development with Flutter & Dart**.  
 🎓 3nd-year Computer Science student building strong skills in **front-end**, **UI/UX**, and **system administration**.  
 🧠 Passionate about clean code, beautiful UIs, and learning by doing — one commit at a time.
 
