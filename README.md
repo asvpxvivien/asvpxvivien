@@ -12,9 +12,9 @@
 
 ## 🌐 Find me on
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/share/RQ4QEBH84N2VMAWH/?mibextid=JRoKGi) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/asvpxvivien/profilecard/?igsh=MWpkZDV1b2NydTd2cQ==) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23BD081C.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pin.it/13Dp5lnOm)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)]
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23BD081C.svg?style=for-the-badge&logo=Pinterest&logoColor=white)]
 
 ---
 
