@@ -6,7 +6,7 @@
 
 👋 Tech enthusiast focused on **mobile app development with Flutter & Dart**.  
 🎓 3nd-year Computer Science student building strong skills in **front-end**, **UI/UX**, and **system administration**.  
-🧠 Passionate about mobile technology, beautiful UIs, and learning by doing — one commit at a time.
+🧠 Passionate about mobile technology, beautiful UIs, and Ai.
 
 ---
 
