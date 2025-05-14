@@ -50,12 +50,6 @@ My goal is to improve consistently by writing clean code and learning from every
 
 ---
 
-## 💬 Favorite Dev Quote
-
-> *"Software is a great combination of artistry and engineering."*  
-> — **Bill Gates**
-
----
 
 [![](https://visitcount.itsvg.in/api?id=asvpxvivien&icon=5&color=0)](https://visitcount.itsvg.in)
 
