@@ -13,19 +13,28 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to-Work-%2300C853?style=flat-square" />
   <img src="https://img.shields.io/badge/Mobile-Developer-%2300ACC1?style=flat-square" />
-  <img src="https://img.shields.io/badge/Made%20with-Flutter-%230095D5?style=flat-square&logo=flutter&logoColor=white" />
 </p>
 
 ---
 
+
+
+
+
+
+
+
 ## 👨🏽‍💻 About Me
 
-I'm a **Flutter Developer** building elegant and powerful mobile experiences.  
-📚 I'm a **3rd-year Computer Science student**.  
-💡 I focus on **Front-End, UI/UX**, and **System Administration**.  
-I love clean code, purposeful design, and continuous learning.
+👋 Tech enthusiast focused on **mobile app development with Flutter & Dart**.  
+🎓 3nd-year Computer Science student building strong skills in **web developpement**, **UI/UX**, and **system administration**.  
+🧠 Passionate about **mobile technology**, and **beautiful UIs & application**.
 
-> *"Great apps aren't just coded, they’re crafted."*
+
+
+
+
+
 
 ---
 
@@ -57,6 +66,14 @@ I love clean code, purposeful design, and continuous learning.
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
+
+---
+
+## ✨ What Drives Me
+
+I focus on building functional, user-friendly mobile apps with attention to detail.  
+My goal is to improve consistently by writing clean code and learning from every challenge.  
+> _Code with clarity, grow with purpose._
 
 
 
