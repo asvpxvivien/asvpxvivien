@@ -30,7 +30,6 @@
 🎓 3nd-year Computer Science student building strong skills in **web developpement**, **UI/UX**, and **system administration**.  
 🧠 Passionate about **mobile technology**, and **beautiful UIs & application**.
 
-  > *"Great apps aren't just coded, they’re crafted."*
 
 
 
