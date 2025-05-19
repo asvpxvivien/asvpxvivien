@@ -38,7 +38,7 @@
 
 I focus on building functional, user-friendly mobile apps with attention to detail.  
 My goal is to improve consistently by writing clean code and learning from every challenge.  
-> _Code with clarity, grow with purpose._
+
 
 ---
 
