@@ -1,18 +1,16 @@
-<!-- PROFILE VIEWS (top right) -->
 <p align="right">
-  <img src="https://visitcount.itsvg.in/api?id=asvpxvivien&label=Profile%20views&color=1&icon=5&pretty=false" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=asvpxvivien&label=Profile%20views&color=0e75b6&style=plastic" alt="profile views" />
 </p>
 
-<!-- TYPING SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Vivien%2C+Flutter+Dev;I+craft+beautiful+mobile+apps+with+Dart;Learning+%F0%9F%93%9A+Improving+%F0%9F%94%8A+Building+%F0%9F%9B%A0" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=480&lines=Hi+%F0%9F%91%8B+I'm+Vivien%2C+Flutter+Dev;Passionate+about+clean+code+and;Learning+and+improving+at+time!" alt="Typing SVG" />
+</div>
+
 
 <!-- TAGS -->
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to-Work-%2300C853?style=flat-square" />
   <img src="https://img.shields.io/badge/Mobile-Developer-%2300ACC1?style=flat-square" />
-  <img src="https://img.shields.io/badge/Made%20with-Flutter-%230095D5?style=flat-square&logo=flutter&logoColor=white" />
 </p>
 
 ---
