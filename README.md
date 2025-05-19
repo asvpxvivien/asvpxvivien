@@ -22,21 +22,14 @@ I'm a **Flutter Developer** building elegant and powerful mobile experiences.
 💡 I focus on **Front-End, UI/UX**, and **System Administration**.  
 I love clean code, purposeful design, and continuous learning.
 
-> *"Great apps aren't just coded, they’re crafted."*
-
 ---
 
-## 🚀 Tech Toolbox
+## 🧰 Tech Toolbox
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-%230095D5.svg?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,canva,html,css,js,mysql,windows,vscode,git" />
 </p>
+
 
 ---
 
@@ -71,10 +64,3 @@ I love clean code, purposeful design, and continuous learning.
 
 ---
 
-## 🖼️ Banner (à venir)
-
-> *Une belle bannière avec ton style arrive ! Si tu veux un design personnalisé maintenant, donne-moi tes préférences (couleurs, slogan, icônes, style, etc.)*
-
----
-
-Souhaites-tu que je te génère une **bannière visuelle maintenant** avec les éléments de ton profil Flutter ? Je peux t'en proposer une propre et stylée en quelques minutes.
