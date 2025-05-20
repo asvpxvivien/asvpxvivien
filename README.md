@@ -18,15 +18,15 @@
 # 📱 About Me
 
 👋 Tech enthusiast focused on **mobile app development with Flutter & Dart**.  
-🎓 3nd-year Computer Science student building strong skills in **web developement**, **UI/UX**, and **system administration**.  
-🧠 Passionate about **mobile technology**, **IA**, and **beautiful UIs & application**.
+🧠 Passionate about **mobile technology**, **IA**, and **beautiful UIs & application**.                
+🎓 Building strong skills in **web developement**, **UI/UX**, and **system administration**.  
 
 ---
 
 ## 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,canva,html,css,js,mysql,windows,vscode,git" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,html,css,js,mysql,windows,vscode,git" />
 </p>
 
 
