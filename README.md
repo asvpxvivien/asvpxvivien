@@ -27,7 +27,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)  
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) 
-![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=flat-square&logo=adobe-photoshop&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white) 
 ![Windows Terminal](https://img.shields.io/badge/Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white)
 
