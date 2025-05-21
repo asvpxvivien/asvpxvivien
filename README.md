@@ -31,13 +31,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white) 
 ![Windows Terminal](https://img.shields.io/badge/Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white)
 
----
-
-## ✨ What Drives Me
-
-I focus on building functional, user-friendly mobile apps with attention to detail.  
-My goal is to improve consistently by writing clean code and learning from every challenge.  
-> _Code with clarity, grow with purpose._
 
 ---
 
