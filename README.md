@@ -8,8 +8,6 @@
 🎓 3nd-year Computer Science student building strong skills in **front-end**, **UI/UX**, and **system administration**.  
 🧠 Passionate about **mobile technology**, **system administration**, and **beautiful UIs & application**.
 
-> *"Great apps aren't just coded, they’re crafted."*
-
 
 ---
 
