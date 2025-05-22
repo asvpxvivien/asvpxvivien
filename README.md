@@ -213,8 +213,6 @@
 
 <div align="center">
 
-### 🚀 **Thank you for visiting my creative universe!** 🌟
-
-**Ready to build the future? Let's connect!** 💫
+### 🚀 **Thank you for visiting, Let's connect!** 🌟💫
 
 </div>
