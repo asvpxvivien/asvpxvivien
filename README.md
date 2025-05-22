@@ -26,7 +26,7 @@
 <tr>
 <td width="60%">
 
-### 🚀 **Digital Alchemist**
+### 🚀 **Mobile Developer**
 > Transforming ideas into **stunning mobile experiences**
 
 🎨 **Creative Vision** → Designing interfaces that users **fall in love with**  
@@ -182,11 +182,9 @@
 
 ---
 
-## 🌐 **CONNECT WITH THE MAGIC**
+## 🌐 **FIND ME ON**
 
 <div align="center">
-
-### 🎪 **Social Circus**
 
 <a href="https://x.com/TON_ID_X">
   <img src="https://img.shields.io/badge/🐦%20Twitter-FF6B6B?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" />
@@ -201,7 +199,7 @@
   <img src="https://img.shields.io/badge/📸%20Instagram-A55EEA?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" />
 </a>
 
-### 🎁 **Let's Create Something Amazing Together!**
+
 
 </div>
 
