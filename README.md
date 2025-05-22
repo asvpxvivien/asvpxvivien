@@ -90,10 +90,10 @@
 
 ## 🌟 **GITHUB UNIVERSE**
 
-
+<div>
  <img height="180" src="https://github-readme-stats.vercel.app/api?username=asvpxvivien&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF&bg_color=0D1117" style="vertical-align: top;"/>
- <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=asvpxvivien&theme=radical&hide_border=true&fire=FF6B6B&ring=4ECDC4&currStreakLabel=FF9F43" style="vertical-align: top;"/>
-
+ <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=asvpxvivien&theme=radical&hide_border=true&fire=FF6B6B&ring=4ECDC4&currStreakLabel=FF9F43" style="vertical-align: bottom;"/>
+</div>
 
 ---
 
