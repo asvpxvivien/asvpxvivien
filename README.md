@@ -151,12 +151,7 @@
 
 <div align="center">
 
-## 💫 **INSPIRATION STATION**
-
-### 🎨 **My Design Philosophy**
-
-<img src="https://img.shields.io/badge/💭%20Philosophy-Design%20is%20how%20it%20works-FF6B6B?style=for-the-badge&labelColor=4ECDC4&logoColor=white" />
-
+## 💫 **MY DESIGN PHILOSOPHY**
 
 <table>
 <tr>
