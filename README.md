@@ -91,12 +91,8 @@
 ## 🌟 **GITHUB UNIVERSE**
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=asvpxvivien&show_icons=true&theme=radical&hide_border=true&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF&bg_color=0D1117" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=asvpxvivien&theme=radical&hide_border=true&fire=FF6B6B&ring=4ECDC4&currStreakLabel=FF9F43" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asvpxvivien&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FF9F43&area=true&hide_border=true&custom_title=🎨%20My%20Creative%20Journey" width="80%"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=asvpxvivien&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF&bg_color=0D1117" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=asvpxvivien&theme=radical&hide_border=true&fire=FF6B6B&ring=4ECDC4&currStreakLabel=FF9F43" />
 </div>
 
 ---
@@ -159,7 +155,8 @@
 
 ### 🎨 **My Design Philosophy**
 
-<img src="https://readme-quotes-api.vercel.app/api?type=horizontal&theme=radical&quote=Design%20is%20not%20just%20what%20it%20looks%20like.%20Design%20is%20how%20it%20works.&author=Steve%20Jobs&border=true" />
+<img src="https://img.shields.io/badge/💭%20Philosophy-Design%20is%20how%20it%20works-FF6B6B?style=for-the-badge&labelColor=4ECDC4&logoColor=white" />
+
 
 <table>
 <tr>
@@ -169,7 +166,7 @@
   <sub>Thinking outside the box</sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100"/><br/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXpsYTN6bjZjODFvOXJwcDYzbG80Z2huZDFnbm93NjdiOGg0ZHc2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="100"/><br/>
   <b>⚡ Fast</b><br/>
   <sub>Lightning quick solutions</sub>
 </td>
