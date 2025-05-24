@@ -205,10 +205,6 @@
 <a href="mailto:TON_EMAIL@gmail.com">
   <img src="https://img.shields.io/badge/📧%20Gmail-FF9F43?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
 </a>
-<a href="https://instagram.com/TON_ID_INSTAGRAM">
-  <img src="https://img.shields.io/badge/📸%20Instagram-A55EEA?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" />
-</a>
-
 ### 🎁 **Let's Create Something Amazing Together!**
 
 </div>
