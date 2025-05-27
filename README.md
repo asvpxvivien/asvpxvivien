@@ -82,6 +82,39 @@
 
 <div align="center">
 
+## 🎪 **CREATIVE PLAYGROUND**
+<div align="center">
+
+
+<table>
+<tr>
+<td align="center" width="25%">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100"/><br/>
+  <b>🎭 Creative</b><br/>
+  <sub>Thinking outside the box</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXpsYTN6bjZjODFvOXJwcDYzbG80Z2huZDFnbm93NjdiOGg0ZHc2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="100"/><br/>
+  <b>⚡ Fast</b><br/>
+  <sub>Lightning quick solutions</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://media.giphy.com/media/l2JhxfHWMBWuDMIAU/giphy.gif" width="100"/><br/>
+  <b>🎯 Precise</b><br/>
+  <sub>Pixel-perfect execution</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="100"/><br/>
+  <b>🚀 Innovative</b><br/>
+  <sub>Future-ready solutions</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 <table>
 <tr>
 <td width="33%">
@@ -156,7 +189,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,10,13&height=200&section=footer&text=✨%20KEEP%20CREATING%20✨&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=✨%20KEEP%20CREATING%20✨&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=70" />
 </div>
 
 <div align="center">
