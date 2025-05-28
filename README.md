@@ -159,7 +159,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,13&height=200&section=footer&text=✨%20KEEP%20CREATING%20✨&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=✨%20KEEP%20CREATING%20✨&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=70" />
 </div>
 
 <div align="center">
