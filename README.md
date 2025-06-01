@@ -80,54 +80,46 @@
 
 ---
 
+
+## 💡 **CREATIVE PLAYGROUND** 
+
 <div align="center">
-
-## 🎪 **CREATIVE PLAYGROUND**
-
 <table>
 <tr>
-<td width="30%">
+<td width="25%" align="center">
 
-### 🌈 **Color Palette**
-<div align="center">
-  <img src="https://img.shields.io/badge/●-FF6B6B-FF6B6B?style=for-the-badge&labelColor=FF6B6B"/>
-  <img src="https://img.shields.io/badge/●-4ECDC4-4ECDC4?style=for-the-badge&labelColor=4ECDC4"/>
-  <img src="https://img.shields.io/badge/●-FF9F43-FF9F43?style=for-the-badge&labelColor=FF9F43"/>
-  <img src="https://img.shields.io/badge/●-A55EEA-A55EEA?style=for-the-badge&labelColor=A55EEA"/>
-  <img src="https://img.shields.io/badge/●-26D0CE-26D0CE?style=for-the-badge&labelColor=26D0CE"/>
-  <img src="https://img.shields.io/badge/●-FD79A8-FD79A8?style=for-the-badge&labelColor=FD79A8"/>
-</div>
+### 🎨 **Design-First**
+Beautiful, intuitive interfaces that users love
 
-**Vibrant • Modern • Inspiring**
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="80"/>
 
 </td>
-<td width="30%">
+<td width="25%" align="center">
 
-### ⚡ **Current Vibe**
-<div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="120"/>
-</div>
+### ⚡ **Performance**
+Optimized code for smooth, responsive experiences
 
-**🎵 Coding with** **Lo-fi beats**  
-**☕ Fueled by** **Coffee magic**  
-**🌙 Peak hours:** **Midnight coding**
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80"/>
 
 </td>
-<td width="30%">
+<td width="25%" align="center">
 
-### 🎯 **Focus Mode**
-<div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="120"/>
-</div>
+### 🔧 **Clean Code**
+Maintainable, scalable, and well-documented
 
-**🔥 Building:** **Next-gen apps**  
-**💡 Learning:** **AI integration**  
-**🚀 Goal:** **Mobile innovation**
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="80"/>
+
+</td>
+<td width="25%" align="center">
+
+### 🚀 **Innovation**
+Always exploring cutting-edge technologiesMore actions
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="80"/>
 
 </td>
 </tr>
 </table>
-
 </div>
 
 ---
