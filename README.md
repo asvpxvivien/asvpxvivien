@@ -73,9 +73,11 @@
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=asvpxvivien&show_icons=true&theme=tokyonight&hide_border=true&title_color=0075FF&icon_color=00D4AA&text_color=FFFFFF&bg_color=0D1117&count_private=true" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=asvpxvivien&theme=tokyonight&hide_border=true&fire=FF6B6B&ring=0075FF&currStreakLabel=00D4AA" />
+ <img height="150" src="https://github-readme-stats.vercel.app/api?username=asvpxvivien&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF&bg_color=0D1117" style="vertical-align: top;"/>
+ <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=asvpxvivien&theme=radical&hide_border=true&fire=FF6B6B&ring=4ECDC4&currStreakLabel=FF9F43" style="vertical-align: top;"/>
 </div>
+
+
 
 ---
 
@@ -125,44 +127,25 @@ Always exploring cutting-edge technologies
 ## 📞 **Let's Connect & Collaborate**
 
 <div align="center">
-<table>
-<tr>
-<td width="33%" align="center">
 
-### 💼 **Professional**
-<a href="https://linkedin.com/in/yourprofile">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://x.com/TON_ID_X">
+  <img src="https://img.shields.io/badge/🐦%20Twitter-FF6B6B?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" />
 </a>
-<a href="mailto:your.email@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://linkedin.com/in/TON_ID_LINKEDIN">
+  <img src="https://img.shields.io/badge/💼%20LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
 </a>
-
-</td>
-<td width="33%" align="center">
-
-### 🌐 **Social**
-<a href="https://twitter.com/yourhandle">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+<a href="mailto:TON_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/📧%20Gmail-FF9F43?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
 </a>
-<a href="https://instagram.com/yourhandle">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://instagram.com/TON_ID_INSTAGRAM">
+  <img src="https://img.shields.io/badge/📸%20Instagram-A55EEA?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" />
 </a>
 
-</td>
-<td width="33%" align="center">
 
-### 💻 **Code**
-<a href="https://github.com/asvpxvivien">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://stackoverflow.com/users/yourprofile">
-  <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-</a>
 
-</td>
-</tr>
-</table>
 </div>
+
+
 
 ---
 
