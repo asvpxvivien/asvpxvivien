@@ -21,16 +21,17 @@
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
 ### 🎯 **About Me**
 
-**Passionate Flutter Developer** dedicated to creating **exceptional mobile experiences**. I transform ideas into powerful, scalable applications that users love.
+> Transforming ideas into **stunning mobile experiences**
 
-🔹 Designing interfaces that users **fall in love with**    
-🔹 Building apps that **perform flawlessly**  
-🔹 Always pushing the **boundaries** of what's possible                       
-🔹 Every pixel, every animation, **perfectly crafted**
+ **Creative Vision** → Designing interfaces that users **fall in love with**  
+ **Technical Mastery** → Building apps that **perform flawlessly**  
+ **Innovation Drive** → Always pushing the **boundaries** of what's possible  
+ **Attention to Detail** → Every pixel, every animation, **perfectly crafted**
+
 
 
 </td>
@@ -61,10 +62,9 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </div>
 
@@ -128,17 +128,17 @@ Always exploring cutting-edge technologies
 
 <div align="center">
 
-<a href="https://x.com/TON_ID_X">
-  <img src="https://img.shields.io/badge/🐦%20Twitter-FF6B6B?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" />
+<a href="https://x.com/TONIDX">
+  <img src="https://img.shields.io/badge/🐦%20Twitter-FF6B6B?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2"/>
 </a>
-<a href="https://linkedin.com/in/TON_ID_LINKEDIN">
-  <img src="https://img.shields.io/badge/💼%20LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
+<a href="https://linkedin.com/in/TONIDLINKEDIN">
+  <img src="https://img.shields.io/badge/💼%20LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
 </a>
-<a href="mailto:TON_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/📧%20Gmail-FF9F43?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
+<a href="mailto:amagbegnonvivien5@gmail.com">
+  <img src="https://img.shields.io/badge/📧%20Gmail-FF9F43?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
 </a>
-<a href="https://instagram.com/TON_ID_INSTAGRAM">
-  <img src="https://img.shields.io/badge/📸%20Instagram-A55EEA?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" />
+<a href="https://instagram.com/TONIDINSTAGRAM">
+  <img src="https://img.shields.io/badge/📸%20Instagram-A55EEA?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"/>
 </a>
 
 
