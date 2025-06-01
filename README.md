@@ -1,16 +1,16 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=300&section=header&text=✨%20VIVIEN%20✨&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=45&desc=🚀%20Flutter%20Artisan%20•%20Mobile%20Wizard%20•%20UI%20Magician%20🎨&descAlignY=65&descSize=20">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,12&height=300&section=header&text=✨%20VIVIEN%20✨&fontSize=80&fontColor=333&animation=fadeIn&fontAlignY=45&desc=🚀%20Flutter%20Artisan%20•%20Mobile%20Wizard%20•%20UI%20Magician%20🎨&descAlignY=65&descSize=20">
-    <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=300&section=header&text=✨%20VIVIEN%20✨&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=45&desc=🚀%20Flutter%20Artisan%20•%20Mobile%20Wizard%20•%20UI%20Magician%20🎨&descAlignY=65&descSize=20" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6&height=300&section=header&text=🚀%20FLUTTER%20ARCHITECT&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Crafting%20Digital%20Experiences%20•%20Mobile%20Innovation%20•%20Cross-Platform%20Mastery&descAlignY=55&descSize=18">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8&height=300&section=header&text=🚀%20FLUTTER%20ARCHITECT&fontSize=50&fontColor=333&animation=twinkling&fontAlignY=35&desc=Crafting%20Digital%20Experiences%20•%20Mobile%20Innovation%20•%20Cross-Platform%20Mastery&descAlignY=55&descSize=18">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6&height=300&section=header&text=🚀%20FLUTTER%20ARCHITECT&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Crafting%20Digital%20Experiences%20•%20Mobile%20Innovation%20•%20Cross-Platform%20Mastery&descAlignY=55&descSize=18" />
   </picture>
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=900&size=28&duration=3000&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=true&width=600&height=120&lines=🎭+FLUTTER+DEVELOPER;🌈+PASSIONATE+ABOUT+CLEAN+CODE;⚡+LEARNING+AND+IMPROVING+AT+TIME" alt="Creative Typing" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=0075FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Flutter+%7C+Mobile+Developer;Turning+Ideas+Into+Reality" alt="Typing Animation" />
 </div>
+
+<br/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/🌟-OPEN%20TO%20WORK-FF6B6B?style=for-the-badge&labelColor=4ECDC4&logoColor=white" />
@@ -18,29 +18,30 @@
   <img src="https://img.shields.io/badge/🎨-UI%20ARTIST-FF9F43?style=for-the-badge&labelColor=A55EEA&logoColor=white" />
 </p>
 
+
 ---
 
-## 🎭 **WHO AM I?**
-
-<table>
+<table width="100%">
 <tr>
-<td width="60%">
+<td width="50%" valign="top">
 
-### 🚀 **Mobile Developer**
-> Transforming ideas into **stunning mobile experiences**
+### 🎯 **About Me**
 
-🎨 **Creative Vision** → Designing interfaces that users **fall in love with**  
-⚡ **Technical Mastery** → Building apps that **perform flawlessly**  
-🌟 **Innovation Drive** → Always pushing the **boundaries** of what's possible  
-💎 **Attention to Detail** → Every pixel, every animation, **perfectly crafted**
+**Passionate Flutter Developer** dedicated to creating **exceptional mobile experiences**. I transform ideas into powerful, scalable applications that users love.
+
+🔹 Designing interfaces that users **fall in love with**    
+🔹 Building apps that **perform flawlessly**  
+🔹 Always pushing the **boundaries** of what's possible                       
+🔹 Every pixel, every animation, **perfectly crafted**
+
 
 </td>
-<td width="40%">
+<td width="50%" valign="top">
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="Flutter Animation"/>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=asvpxvivien&label=👁️%20PROFILE%20VIEWS&color=FF6B6B&style=plastic" />
+  <img src="https://komarev.com/ghpvc/?username=asvpxvivien&label=👀%20Profile%20Views&color=0075FF&style=plastic" />
 </div>
 
 </td>
@@ -49,121 +50,134 @@
 
 ---
 
-## 🎨 **MY CREATIVE ARSENAL**
+## 🛠️ **MY CREATIVE ARSENAL**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-
-
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </div>
 
 ---
 
-## 🌟 **GITHUB UNIVERSE**
+## 📊 **GitHub Analytics**
 
 <div align="center">
- <img height="150" src="https://github-readme-stats.vercel.app/api?username=asvpxvivien&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF&bg_color=0D1117" style="vertical-align: top;"/>
- <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=asvpxvivien&theme=radical&hide_border=true&fire=FF6B6B&ring=4ECDC4&currStreakLabel=FF9F43" style="vertical-align: top;"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=asvpxvivien&show_icons=true&theme=tokyonight&hide_border=true&title_color=0075FF&icon_color=00D4AA&text_color=FFFFFF&bg_color=0D1117&count_private=true" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=asvpxvivien&theme=tokyonight&hide_border=true&fire=FF6B6B&ring=0075FF&currStreakLabel=00D4AA" />
 </div>
 
 ---
 
+## 💡 **What Makes Me Different**
+
 <div align="center">
-
-## 🎪 **CREATIVE PLAYGROUND**
-
 <table>
 <tr>
-<td width="33%">
+<td width="25%" align="center">
 
-### 🌈 **Color Palette**
-<div align="center">
-  <img src="https://img.shields.io/badge/●-FF6B6B-FF6B6B?style=for-the-badge&labelColor=FF6B6B"/>
-  <img src="https://img.shields.io/badge/●-4ECDC4-4ECDC4?style=for-the-badge&labelColor=4ECDC4"/>
-  <img src="https://img.shields.io/badge/●-FF9F43-FF9F43?style=for-the-badge&labelColor=FF9F43"/>
-  <img src="https://img.shields.io/badge/●-A55EEA-A55EEA?style=for-the-badge&labelColor=A55EEA"/>
-  <img src="https://img.shields.io/badge/●-26D0CE-26D0CE?style=for-the-badge&labelColor=26D0CE"/>
-  <img src="https://img.shields.io/badge/●-FD79A8-FD79A8?style=for-the-badge&labelColor=FD79A8"/>
-</div>
+### 🎨 **Design-First**
+Beautiful, intuitive interfaces that users love
 
-**Vibrant • Modern • Inspiring**
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="80"/>
 
 </td>
-<td width="33%">
+<td width="25%" align="center">
 
-### ⚡ **Current Vibe**
-<div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="120"/>
-</div>
+### ⚡ **Performance**
+Optimized code for smooth, responsive experiences
 
-**🎵 Coding with** **Lo-fi beats**  
-**☕ Fueled by** **Coffee magic**  
-**🌙 Peak hours:** **Midnight coding**
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80"/>
 
 </td>
-<td width="33%">
+<td width="25%" align="center">
 
-### 🎯 **Focus Mode**
-<div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="120"/>
-</div>
+### 🔧 **Clean Code**
+Maintainable, scalable, and well-documented
 
-**🔥 Building:** **Next-gen apps**  
-**💡 Learning:** **AI integration**  
-**🚀 Goal:** **Mobile innovation**
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="80"/>
+
+</td>
+<td width="25%" align="center">
+
+### 🚀 **Innovation**
+Always exploring cutting-edge technologies
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="80"/>
 
 </td>
 </tr>
 </table>
-
 </div>
 
 ---
 
-
-## 🌐 **FIND ME ON**
+## 📞 **Let's Connect & Collaborate**
 
 <div align="center">
+<table>
+<tr>
+<td width="33%" align="center">
 
-<a href="https://x.com/TON_ID_X">
-  <img src="https://img.shields.io/badge/🐦%20Twitter-FF6B6B?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" />
+### 💼 **Professional**
+<a href="https://linkedin.com/in/yourprofile">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/TON_ID_LINKEDIN">
-  <img src="https://img.shields.io/badge/💼%20LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
-</a>
-<a href="mailto:TON_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/📧%20Gmail-FF9F43?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
-</a>
-<a href="https://instagram.com/TON_ID_INSTAGRAM">
-  <img src="https://img.shields.io/badge/📸%20Instagram-A55EEA?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" />
+<a href="mailto:your.email@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
+</td>
+<td width="33%" align="center">
 
+### 🌐 **Social**
+<a href="https://twitter.com/yourhandle">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://instagram.com/yourhandle">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
+</td>
+<td width="33%" align="center">
+
+### 💻 **Code**
+<a href="https://github.com/asvpxvivien">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://stackoverflow.com/users/yourprofile">
+  <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=✨%20KEEP%20CREATING%20✨&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=70" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,6,12&height=150&section=footer&text=Ready%20to%20Build%20Something%20Amazing?%20🚀&fontSize=24&fontColor=fff&animation=fadeIn&fontAlignY=65">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,2,0&height=150&section=footer&text=Ready%20to%20Build%20Something%20Amazing?%20🚀&fontSize=24&fontColor=333&animation=fadeIn&fontAlignY=65">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,6,12&height=150&section=footer&text=Ready%20to%20Build%20Something%20Amazing?%20🚀&fontSize=24&fontColor=fff&animation=fadeIn&fontAlignY=65" />
+  </picture>
 </div>
 
 <div align="center">
 
-### 🚀 **Thank you for visiting, Let's connect!** 🌟💫
+### Thank you for visiting, Let's connect! 💫
 
 </div>
