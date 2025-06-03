@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6&height=300&section=header&text=🚀%20FLUTTER%20ARCHITECT&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Crafting%20Digital%20Experiences%20•%20Mobile%20Innovation%20•%20Cross-Platform%20Mastery&descAlignY=55&descSize=18">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8&height=300&section=header&text=🚀%20FLUTTER%20ARCHITECT&fontSize=50&fontColor=333&animation=twinkling&fontAlignY=35&desc=Crafting%20Digital%20Experiences%20•%20Mobile%20Innovation%20•%20Cross-Platform%20Mastery&descAlignY=55&descSize=18">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6&height=300&section=header&text=🚀%20FLUTTER%20ARCHITECT&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Crafting%20Digital%20Experiences%20•%20Mobile%20Innovation%20•%20Cross-Platform%20Mastery&descAlignY=55&descSize=18" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,14&height=300&section=header&text=🚀%20FLUTTER%20ARCHITECT&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Crafting%20Digital%20Experiences%20•%20Mobile%20Innovation%20•%20Cross-Platform%20Mastery&descAlignY=55&descSize=18">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,14&height=300&section=header&text=🚀%20FLUTTER%20ARCHITECT&fontSize=50&fontColor=333&animation=twinkling&fontAlignY=35&desc=Crafting%20Digital%20Experiences%20•%20Mobile%20Innovation%20•%20Cross-Platform%20Mastery&descAlignY=55&descSize=18">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,14&height=300&section=header&text=🚀%20FLUTTER%20ARCHITECT&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Crafting%20Digital%20Experiences%20•%20Mobile%20Innovation%20•%20Cross-Platform%20Mastery&descAlignY=55&descSize=18" />
   </picture>
 </div>
 
@@ -113,7 +113,7 @@ Maintainable, scalable, and well-documented
 <td width="25%" align="center">
 
 ### 🚀 **Innovation**
-Always exploring cutting-edge technologiesMore actions
+Always exploring cutting-edge technologies
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="80"/>
 
@@ -149,9 +149,9 @@ Always exploring cutting-edge technologiesMore actions
 ---
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,6,12&height=150&section=footer&text=Ready%20to%20Build%20Something%20Amazing?%20🚀&fontSize=24&fontColor=fff&animation=fadeIn&fontAlignY=65">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,2,0&height=150&section=footer&text=Ready%20to%20Build%20Something%20Amazing?%20🚀&fontSize=24&fontColor=333&animation=fadeIn&fontAlignY=65">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,6,12&height=150&section=footer&text=Ready%20to%20Build%20Something%20Amazing?%20🚀&fontSize=24&fontColor=fff&animation=fadeIn&fontAlignY=65" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,14&height=150&section=footer&text=Ready%20to%20Build%20Something%20Amazing?%20🚀&fontSize=24&fontColor=fff&animation=fadeIn&fontAlignY=65">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,14&height=150&section=footer&text=Ready%20to%20Build%20Something%20Amazing?%20🚀&fontSize=24&fontColor=333&animation=fadeIn&fontAlignY=65">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,14&height=150&section=footer&text=Ready%20to%20Build%20Something%20Amazing?%20🚀&fontSize=24&fontColor=fff&animation=fadeIn&fontAlignY=65" />
   </picture>
 </div>
 
