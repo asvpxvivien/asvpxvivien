@@ -24,7 +24,7 @@
 <tr>
 <td width="60%">
 
-### 🚀 **Mobile Developer**
+###  **Mobile Developer**
 > Transforming ideas into **stunning mobile experiences**
 
  **Creative Vision** → Designing interfaces that users **fall in love with**  
