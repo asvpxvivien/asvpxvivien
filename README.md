@@ -72,12 +72,10 @@
 ---
 
 ## 🌟 **GITHUB UNIVERSE**
-
-<div align="center">
- <img height="150" src="https://github-readme-stats.vercel.app/api?username=asvpxvivien&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF&bg_color=0D1117" style="vertical-align: top;"/>
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asvpxvivien&layout=compact&langs_count=6&theme=radical&hide_border=true" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asvpxvivien&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF&bg_color=0D1117" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asvpxvivien&layout=compact&langs_count=6&theme=radical&hide_border=true" width="300" />
+</p>
 
 ---
 
