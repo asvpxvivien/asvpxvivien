@@ -131,7 +131,7 @@ Always exploring cutting-edge technologies
 <a href="https://x.com/TON_ID_X">
   <img src="https://img.shields.io/badge/🐦%20Twitter-FF6B6B?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" />
 </a>
-<a href="https://linkedin.com/in/TON_ID_LINKEDIN">
+<a href="https://linkedin.com/in/Vivien AMAGBEGNON">
   <img src="https://img.shields.io/badge/💼%20LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
 </a>
 <a href="mailto:amagbegnonvivien5@gmail.com">
