@@ -18,13 +18,13 @@
 
 ---
 
-## 🎭 **WHO AM I?**
+##  **WHO AM I?**
 
 <table>
 <tr>
 <td width="60%">
 
-### 🚀 **Mobile Developer**
+###  **Mobile Developer**
 > Transforming ideas into **stunning mobile experiences**
 
  **Creative Vision** → Designing interfaces that users **fall in love with**  
@@ -47,7 +47,7 @@
 
 ---
 
-## 🎨 **MY CREATIVE ARSENAL**
+##  **MY CREATIVE ARSENAL**
 
 <div align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
@@ -71,7 +71,7 @@
 
 ---
 
-## 🌟 **GITHUB UNIVERSE**
+##  **GITHUB UNIVERSE**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=asvpxvivien&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF&bg_color=0D1117" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asvpxvivien&layout=compact&langs_count=6&theme=radical&hide_border=true" width="300" />
@@ -80,14 +80,14 @@
 ---
 
 
-## 💡 **CREATIVE PLAYGROUND** 
+##  **CREATIVE PLAYGROUND** 
 
 <div align="center">
 <table>
 <tr>
 <td width="25%" align="center">
 
-### 🎨 **Design-First**
+###  **Design-First**
 Beautiful, intuitive interfaces that users love
 
 <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="80"/>
@@ -95,7 +95,7 @@ Beautiful, intuitive interfaces that users love
 </td>
 <td width="25%" align="center">
 
-### ⚡ **Performance**
+###  **Performance**
 Optimized code for smooth, responsive experiences
 
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80"/>
@@ -103,7 +103,7 @@ Optimized code for smooth, responsive experiences
 </td>
 <td width="25%" align="center">
 
-### 🔧 **Clean Code**
+###  **Clean Code**
 Maintainable, scalable, and well-documented
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="80"/>
@@ -111,7 +111,7 @@ Maintainable, scalable, and well-documented
 </td>
 <td width="25%" align="center">
 
-### 🚀 **Innovation**
+###  **Innovation**
 Always exploring cutting-edge technologies
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="80"/>
@@ -124,25 +124,21 @@ Always exploring cutting-edge technologies
 ---
 
 
-## 🌐 **FIND ME ON**
+##  **FIND ME ON**
 
 <div align="center">
-
-<a href="https://x.com/TON_ID_X">
-  <img src="https://img.shields.io/badge/🐦%20Twitter-FF6B6B?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" />
+<a href="https://x.com/mobile_stacks" target="_blank">
+  <img src="https://img.shields.io/badge/%20Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="Twitter" />
 </a>
-<a href="https://linkedin.com/in/Vivien AMAGBEGNON">
-  <img src="https://img.shields.io/badge/💼%20LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
+<a href="https://linkedin.com/in/vivienamagbegnon/" target="_blank">
+  <img src="https://img.shields.io/badge/%20💼LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
 </a>
-<a href="mailto:amagbegnonvivien5@gmail.com">
-  <img src="https://img.shields.io/badge/📧%20Gmail-FF9F43?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
+<a href="mailto:amagbegnonvivien5@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/%20Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail" />
 </a>
-<a href="https://instagram.com/TON_ID_INSTAGRAM">
-  <img src="https://img.shields.io/badge/📸%20Instagram-A55EEA?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" />
+<a href="https://ton-portfolio.com" target="_blank">
+  <img src="https://img.shields.io/badge/%20Portfolio-FF6B6B?style=for-the-badge&logo=safari&logoColor=white&labelColor=FF4500" alt="Portfolio" />
 </a>
-
-
-
 </div>
 
 ---
