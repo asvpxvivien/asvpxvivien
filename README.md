@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=900&size=28&duration=3000&pause=800&color=0075FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Flutter+%7C+Mobile+Developer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=900&size=28&duration=3000&pause=800&color=0075FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Flutter+%7C+Mobile+App+Developer" alt="Typing Animation" />
 </div>
 
 <p align="center">
