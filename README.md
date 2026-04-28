@@ -168,7 +168,7 @@ Always exploring cutting-edge technologies
 <a href="mailto:amagbegnonvivien5@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/%20Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail" />
 </a>
-<a href="https://ton-portfolio.com" target="_blank">
+<a href="https://www.vivamg.dev/" target="_blank">
   <img src="https://img.shields.io/badge/%20Portfolio-FF6B6B?style=for-the-badge&logo=safari&logoColor=white&labelColor=FF4500" alt="Portfolio" />
 </a>
 </div>
