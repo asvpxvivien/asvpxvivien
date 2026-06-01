@@ -108,7 +108,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=asvpxvivien&theme=tokyonight&hide_border=true&stroke=0000&ring=0E7AC7&fire=FF6B6B&currStreakLabel=4ECDC4" alt="GitHub Streak" width="400" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=asvpxvivien&theme=tokyonight&hide_border=true&stroke=0000&ring=0E7AC7&fire=FF6B6B&currStreakLabel=4ECDC4" alt="GitHub Streak" width="480" />
     </td>
     <td>
       <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=asvpxvivien&layout=compact&langs_count=6&theme=radical&hide_border=true" alt="Top Languages" width="400" />
