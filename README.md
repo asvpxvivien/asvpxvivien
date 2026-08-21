@@ -162,21 +162,44 @@ Always exploring cutting-edge technologies
 ---
 
 
-##  **FIND ME ON**
+## **FIND ME ON**
 
 <div align="center">
+
+<table border="0">
+<tr>
+<td align="center" border="0">
 <a href="https://x.com/mobile_stacks" target="_blank">
-  <img src="https://img.shields.io/badge/%20Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="Twitter" />
+<img src="https://cdn.simpleicons.org/x/000000" width="42" alt="X" />
 </a>
+</td>
+
+<td width="25" border="0"></td>
+
+<td align="center" border="0">
 <a href="https://linkedin.com/in/vivienamagbegnon/" target="_blank">
-  <img src="https://img.shields.io/badge/%20💼LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42" alt="LinkedIn" />
 </a>
-<a href="mailto:amagbegnonvivien5@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/%20Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail" />
+</td>
+
+<td width="25" border="0"></td>
+
+<td align="center" border="0">
+<a href="mailto:amagbegnonvivien5@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" alt="Email" />
 </a>
+</td>
+
+<td width="25" border="0"></td>
+
+<td align="center" border="0">
 <a href="https://vivamg.dev" target="_blank">
-  <img src="https://img.shields.io/badge/%20Portfolio-FF6B6B?style=for-the-badge&logo=safari&logoColor=white&labelColor=FF4500" alt="Portfolio" />
+  <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/globe2.svg" width="42" alt="Portfolio" />
 </a>
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
