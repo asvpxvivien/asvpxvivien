@@ -65,7 +65,7 @@
   <img src="./assets/portfolio-card.svg" width="100%" alt="See the apps I have shipped on vivamg.dev" />
 </a>
 
-<p align="center"><sub>Most of my client projects live in private repositories. The shipped versions are on my portfolio, <a href="https://vivamg.dev"><b>tap the card above</b></a> to see them live.</sub> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Up.png" height="18" /></p>
+<p align="center"><sub>Most of my projects live in private repositories. The shipped versions are on my portfolio, <a href="https://vivamg.dev"><b>tap the card above</b></a> to see them live.</sub> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Up.png" height="18" /></p>
 
 ---
 
