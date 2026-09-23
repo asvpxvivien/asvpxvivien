@@ -38,14 +38,12 @@
     <ellipse class="halo" cx="170" cy="110" rx="300" ry="190" fill="url(#halo)"/>
   </g>
   <rect x="0.5" y="0.5" width="879" height="219" rx="17.5" fill="none" stroke="rgba(255,255,255,0.09)"/>
-  <g transform="translate(44 62) scale(3)">
-    <path transform="skewX(-10)" d="M6.5 6 L12.5 6 L16.8 20.5 L24.5 6 L30 6 L18.5 26 L12 26 Z" fill="url(#cyan)"/>
-  </g>
-  <text x="178" y="62" class="label">PORTFOLIO</text>
+ 
+  <text x="90" y="62" class="label">PORTFOLIO</text>
   <circle class="dot" cx="272" cy="58" r="3" fill="#38A8E0"/>
-  <text x="176" y="104" class="title" fill="#F4F7FB">Toutes mes apps</text>
-  <text x="176" y="142" class="title" fill="url(#cyan)">sont en ligne.</text>
-  <text x="178" y="174" class="body">Applications mobiles, études de cas et contact.</text>
+  <text x="90" y="104" class="title" fill="#F4F7FB">Toutes mes apps</text>
+  <text x="90" y="142" class="title" fill="url(#cyan)">sont en ligne.</text>
+  <text x="90" y="174" class="body">Applications mobiles, études de cas et contact.</text>
   <rect x="628" y="88" width="208" height="48" rx="24" fill="url(#cyan)"/>
   <g clip-path="url(#btn)">
     <rect class="shine" x="628" y="88" width="90" height="48" fill="url(#sweep)"/>
