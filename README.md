@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=38A8E0&height=150&section=header&animation=twinkling" width="100%" alt="" />
 </div>
 
-<h1 align="center">Hi, I'm Vivien.</h1>
+<h1 align="center">Hi, I'm Vivien. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Smiling%20Eyes.png" width="40" /></h1>
 
 <div align="center">
   <picture>
@@ -58,6 +58,8 @@
 <a href="https://vivamg.dev" target="_blank">
   <img src="./assets/portfolio-card.svg" width="100%" alt="See the apps I have shipped on vivamg.dev" />
 </a>
+
+<p align="center"><sub>Most of my client projects live in private repositories. The shipped versions are on my portfolio, <a href="https://vivamg.dev"><b>tap the card above</b></a> to see them live.</sub> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Up.png" height="18" /></p>
 
 ---
 
@@ -186,18 +188,15 @@ New tools tried on side projects before client work
 
 ## Outside the code.
 
+<p align="center">
+  <kbd>&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" height="18" />&nbsp; Music&nbsp;</kbd>&nbsp;&nbsp;
+  <kbd>&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" height="18" />&nbsp; Gaming&nbsp;</kbd>&nbsp;&nbsp;
+  <kbd>&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" height="18" />&nbsp; Geek&nbsp;</kbd>&nbsp;&nbsp;
+  <kbd>&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" height="18" />&nbsp; Photo&nbsp;</kbd>
+</p>
+
 <div align="center">
-<table>
-<tr>
-<td align="center" width="120"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" width="56" /><br/><sub><b>Music</b></sub></td>
-<td align="center" width="120"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="56" /><br/><sub><b>Gaming</b></sub></td>
-<td align="center" width="120"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" width="56" /><br/><sub><b>Geek</b></sub></td>
-<td align="center" width="120"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" width="56" /><br/><sub><b>Photo</b></sub></td>
-</tr>
-</table>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="44" />
-
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="44" /><br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Sora&weight=800&center=true&vCenter=true&multiline=true&duration=3000&pause=800&size=22&width=600&height=50&color=38A8E0&lines=Fueled+by+coffee+and+curiosity.">
     <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Sora&weight=800&center=true&vCenter=true&multiline=true&duration=3000&pause=800&size=22&width=600&height=50&color=1B7FB8&lines=Fueled+by+coffee+and+curiosity.">
@@ -211,35 +210,34 @@ New tools tried on side projects before client work
 
 ## Let's talk.
 
-<div align="center">
+<h3 align="center">Got an app idea? I take it from the first sketch to launch.</h3>
 
-<table border="0">
-<tr>
-<td align="center" border="0">
-<a href="https://x.com/mobile_stacks" target="_blank">
-<img src="https://cdn.simpleicons.org/x/0A0C10/F4F7FB" width="42" alt="X" />
-</a>
-</td>
+<p align="center">
+  <kbd>&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" height="20" />&nbsp; Idea&nbsp;</kbd>&nbsp;&nbsp;→&nbsp;&nbsp;
+  <kbd>&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" height="20" />&nbsp; Design&nbsp;</kbd>&nbsp;&nbsp;→&nbsp;&nbsp;
+  <kbd>&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" height="20" />&nbsp; Build&nbsp;</kbd>&nbsp;&nbsp;→&nbsp;&nbsp;
+  <kbd>&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" height="20" />&nbsp; Launch&nbsp;</kbd>
+</p>
 
-<td width="25" border="0"></td>
+<p align="center">
+  <kbd>&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" height="20" />&nbsp; Mobile apps with Flutter&nbsp;</kbd>&nbsp;&nbsp;
+  <kbd>&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" height="20" />&nbsp; Web apps with Next.js&nbsp;</kbd>&nbsp;&nbsp;
+  <kbd>&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" height="20" />&nbsp; AI features inside your app&nbsp;</kbd>
+</p>
 
-<td align="center" border="0">
-<a href="https://linkedin.com/in/vivienamagbegnon/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42" alt="LinkedIn" />
-</a>
-</td>
+<p align="center">
+  Have a project in mind, even a vague one? The best way to find out what it is worth is to talk about it.
+</p>
 
-<td width="25" border="0"></td>
+<p align="center">
+  <a href="https://vivamg.dev/rendez-vous" target="_blank"><img src="https://img.shields.io/badge/Book%20a%20call-38A8E0?style=for-the-badge&logo=googlecalendar&logoColor=white" height="44" /></a>
+</p>
 
-<td align="center" border="0">
-<a href="mailto:amagbegnonvivien5@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" alt="Email" />
-</a>
-</td>
-</tr>
-</table>
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/vivienamagbegnon/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-10141D?style=for-the-badge&logo=linkedin&logoColor=white" height="44" /></a>&nbsp;
+  <a href="https://x.com/mobile_stacks" target="_blank"><img src="https://img.shields.io/badge/X-10141D?style=for-the-badge&logo=x&logoColor=white" height="44" /></a>&nbsp;
+  <a href="mailto:amagbegnonvivien5@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-10141D?style=for-the-badge&logo=gmail&logoColor=white" height="44" /></a>
+</p>
 
 ---
 
@@ -248,11 +246,11 @@ New tools tried on side projects before client work
 </div>
 <br>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="56" />
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="80">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Sora&weight=800&center=true&vCenter=true&multiline=true&duration=3000&pause=800&size=28&width=600&height=120&color=38A8E0&lines=Thanks+for+visiting.;Open+to+collab+📩">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Sora&weight=800&center=true&vCenter=true&multiline=true&duration=3000&pause=800&size=28&width=600&height=120&color=1B7FB8&lines=Thanks+for+visiting.;Open+to+collab+📩">
-    <img src="https://readme-typing-svg.demolab.com/?font=Sora&weight=800&center=true&vCenter=true&multiline=true&duration=3000&pause=800&size=28&width=600&height=120&color=38A8E0&lines=Thanks+for+visiting.;Open+to+collab+📩" alt="Thanks for visiting." />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Sora&weight=800&center=true&vCenter=true&multiline=true&duration=3000&pause=800&size=28&width=600&height=120&color=38A8E0&lines=Thanks+for+visiting.;Open+to+collab.">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Sora&weight=800&center=true&vCenter=true&multiline=true&duration=3000&pause=800&size=28&width=600&height=120&color=1B7FB8&lines=Thanks+for+visiting.;Open+to+collab.">
+    <img src="https://readme-typing-svg.demolab.com/?font=Sora&weight=800&center=true&vCenter=true&multiline=true&duration=3000&pause=800&size=28&width=600&height=120&color=38A8E0&lines=Thanks+for+visiting.;Open+to+collab." alt="Thanks for visiting." />
   </picture>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="56" />
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="80">
 </div>
