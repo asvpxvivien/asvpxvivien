@@ -65,7 +65,7 @@
   <img src="./assets/portfolio-card-fr.svg" width="100%" alt="Voir les applications que j'ai livrées sur vivamg.dev" />
 </a>
 
-<p align="center"><sub>La plupart de mes projets clients sont dans des repositories privés. Les versions en ligne sont sur mon portfolio, <a href="https://vivamg.dev"><b>cliquez sur la carte ci-dessus</b></a> pour les découvrir.</sub> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Up.png" height="18" /></p>
+<p align="center"><sub>La plupart de mes projets sont dans des repositories privés. Les versions en ligne sont sur mon portfolio, <a href="https://vivamg.dev"><b>cliquez sur la carte ci-dessus</b></a> pour les découvrir.</sub> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Up.png" height="18" /></p>
 
 ---
 
