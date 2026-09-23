@@ -1,25 +1,21 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6FD3FF,55:38A8E0,100:1B6F9C&height=150&section=header&animation=twinkling">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:38A8E0,55:1B7FB8,100:1466A0&height=150&section=header&animation=twinkling">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6FD3FF,55:38A8E0,100:1B6F9C&height=150&section=header&animation=twinkling" alt="" />
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38A8E0&height=150&section=header&animation=twinkling" width="100%" alt="" />
 </div>
 
 <h1 align="center">Hi, I'm Vivien.</h1>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Sora&weight=800&size=28&duration=3000&pause=800&color=38A8E0&center=true&vCenter=true&multiline=true&width=600&height=90&lines=Mobile+Developer,+Product+Builder.">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Sora&weight=800&size=28&duration=3000&pause=800&color=1B7FB8&center=true&vCenter=true&multiline=true&width=600&height=90&lines=Mobile+Developer,+Product+Builder.">
-    <img src="https://readme-typing-svg.demolab.com/?font=Sora&weight=800&size=28&duration=3000&pause=800&color=38A8E0&center=true&vCenter=true&multiline=true&width=600&height=90&lines=Mobile+Developer,+Product+Builder." alt="Mobile Developer, Product Builder." />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Sora&weight=800&center=true&vCenter=true&multiline=true&duration=3000&pause=800&size=28&width=600&height=70&color=38A8E0&lines=Flutter+%7C+Mobile+%26+Web+Developer">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Sora&weight=800&center=true&vCenter=true&multiline=true&duration=3000&pause=800&size=28&width=600&height=70&color=1B7FB8&lines=Flutter+%7C+Mobile+%26+Web+Developer">
+    <img src="https://readme-typing-svg.demolab.com/?font=Sora&weight=800&center=true&vCenter=true&multiline=true&duration=3000&pause=800&size=28&width=600&height=70&color=38A8E0&lines=Flutter+%7C+Mobile+%26+Web+Developer" alt="Flutter | Mobile & Web Developer" />
   </picture>
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🌟-OPEN%20TO%20WORK-38A8E0?style=for-the-badge&labelColor=10141D" />
-  <img src="https://img.shields.io/badge/📱-MOBILE%20EXPERT-1B6F9C?style=for-the-badge&labelColor=10141D" />
-  <img src="https://img.shields.io/badge/🎨-UI%20ARTIST-161B26?style=for-the-badge&labelColor=10141D" />
+  <kbd>&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Green%20Circle.png" height="16" />&nbsp; Open to work&nbsp;</kbd>&nbsp;&nbsp;
+  <kbd>&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" height="16" />&nbsp; Mobile expert&nbsp;</kbd>&nbsp;&nbsp;
+  <kbd>&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" height="16" />&nbsp; UI artist&nbsp;</kbd>
 </p>
 
 ---
@@ -32,7 +28,7 @@
 <tr>
 <td width="60%">
 
-### Mobile Developer
+### Mobile & Web Developer
 > I turn product ideas into mobile apps people actually use.
 
 **Design** → Clear interfaces, built around how people use their phone  
@@ -65,11 +61,11 @@
 
 ---
 
-<div align="center">
-
 <sub><code>STACK</code></sub>
 
-### My Creative Arsenal.
+## My Creative Arsenal.
+
+<div align="center">
 <table>
 <tr>
 <td align="center"><strong>Languages</strong></td>
@@ -139,20 +135,6 @@
   </tr>
 </table>
 
-<div align="center">
-  <img src="./profile/top-langs.svg" alt="Top languages" width="400" />
-</div>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile/snake-light.svg" />
-    <img src="./profile/snake-dark.svg" alt="Contribution graph eaten by a snake" />
-  </picture>
-</div>
-
 ---
 
 <sub><code>APPROACH</code></sub>
@@ -200,6 +182,31 @@ New tools tried on side projects before client work
 
 ---
 
+<sub><code>OFF SCREEN</code></sub>
+
+## Outside the code.
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="120"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" width="56" /><br/><sub><b>Music</b></sub></td>
+<td align="center" width="120"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="56" /><br/><sub><b>Gaming</b></sub></td>
+<td align="center" width="120"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" width="56" /><br/><sub><b>Geek</b></sub></td>
+<td align="center" width="120"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" width="56" /><br/><sub><b>Photo</b></sub></td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="44" />
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Sora&weight=800&center=true&vCenter=true&multiline=true&duration=3000&pause=800&size=22&width=600&height=50&color=38A8E0&lines=Fueled+by+coffee+and+curiosity.">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Sora&weight=800&center=true&vCenter=true&multiline=true&duration=3000&pause=800&size=22&width=600&height=50&color=1B7FB8&lines=Fueled+by+coffee+and+curiosity.">
+    <img src="https://readme-typing-svg.demolab.com/?font=Sora&weight=800&center=true&vCenter=true&multiline=true&duration=3000&pause=800&size=22&width=600&height=50&color=38A8E0&lines=Fueled+by+coffee+and+curiosity." alt="Fueled by coffee and curiosity." />
+  </picture>
+</div>
+
+---
+
 <sub><code>CONTACT</code></sub>
 
 ## Let's talk.
@@ -229,35 +236,23 @@ New tools tried on side projects before client work
 <img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" alt="Email" />
 </a>
 </td>
-
-<td width="25" border="0"></td>
-
-<td align="center" border="0">
-<a href="https://vivamg.dev" target="_blank">
-<img src="./assets/monogram.svg" width="42" alt="Portfolio vivamg.dev" />
-</a>
-</td>
 </tr>
 </table>
 
 </div>
 
 ---
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1B6F9C,45:38A8E0,100:6FD3FF&height=150&section=footer&animation=fadeIn">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1466A0,45:1B7FB8,100:38A8E0&height=150&section=footer&animation=fadeIn">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B6F9C,45:38A8E0,100:6FD3FF&height=150&section=footer&animation=fadeIn" alt="" />
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38A8E0&height=150&section=footer&animation=fadeIn" width="100%" alt="" />
 </div>
 <br>
-<br>
 <div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="56" />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Sora&weight=800&size=28&duration=3000&pause=800&color=38A8E0&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Thanks+for+visiting.;Open+to+collab+📩">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Sora&weight=800&size=28&duration=3000&pause=800&color=1B7FB8&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Thanks+for+visiting.;Open+to+collab+📩">
-    <img src="https://readme-typing-svg.demolab.com/?font=Sora&weight=800&size=28&duration=3000&pause=800&color=38A8E0&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Thanks+for+visiting.;Open+to+collab+📩" alt="Thanks for visiting." />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Sora&weight=800&center=true&vCenter=true&multiline=true&duration=3000&pause=800&size=28&width=600&height=120&color=38A8E0&lines=Thanks+for+visiting.;Open+to+collab+📩">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Sora&weight=800&center=true&vCenter=true&multiline=true&duration=3000&pause=800&size=28&width=600&height=120&color=1B7FB8&lines=Thanks+for+visiting.;Open+to+collab+📩">
+    <img src="https://readme-typing-svg.demolab.com/?font=Sora&weight=800&center=true&vCenter=true&multiline=true&duration=3000&pause=800&size=28&width=600&height=120&color=38A8E0&lines=Thanks+for+visiting.;Open+to+collab+📩" alt="Thanks for visiting." />
   </picture>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="56" />
 </div>
