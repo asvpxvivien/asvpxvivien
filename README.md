@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38A8E0&height=150&section=header&animation=twinkling" width="100%" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1B6F9C&height=150&section=header&animation=twinkling" width="100%" alt="" />
 </div>
 
 <h1 align="center">Hi, I'm Vivien. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Smiling%20Eyes.png" width="40" /></h1>
@@ -242,7 +242,7 @@ New tools tried on side projects before client work
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38A8E0&height=150&section=footer&animation=fadeIn" width="100%" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1B6F9C&height=150&section=footer&animation=fadeIn" width="100%" alt="" />
 </div>
 <br>
 <div align="center">
