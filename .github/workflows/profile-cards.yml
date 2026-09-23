@@ -22,22 +22,13 @@ jobs:
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Top languages card
-        uses: stats-organization/github-readme-stats-action@v2
+      # Carte de streak, générée ici au lieu du service externe
+      - name: Streak card
+        uses: DenverCoder1/github-readme-streak-stats@v1
         with:
-          card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&hide_border=true&bg_color=050609&title_color=F4F7FB&text_color=B8C0CF
-          path: profile/top-langs.svg
+          options: user=${{ github.repository_owner }}&hide_border=true&background=050609&ring=38A8E0&fire=6FD3FF&currStreakLabel=38A8E0&sideLabels=B8C0CF&dates=7A8497&sideNums=F4F7FB&currStreakNum=F4F7FB
+          path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Contribution snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          outputs: |
-            profile/snake-dark.svg?color_snake=#F4F7FB&color_dots=#10141D,#1B6F9C,#2A8CC4,#38A8E0,#6FD3FF
-            profile/snake-light.svg?color_snake=#0A0C10&color_dots=#EBEDF0,#A8D8F0,#6FB8E0,#1B7FB8,#1466A0
 
       - name: Commit
         run: |
