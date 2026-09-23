@@ -135,7 +135,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=asvpxvivien&hide_border=true&background=050609&ring=38A8E0&fire=6FD3FF&currStreakLabel=38A8E0&sideLabels=B8C0CF&dates=7A8497&sideNums=F4F7FB&currStreakNum=F4F7FB" alt="GitHub Streak" width="480" />
+      <img src="./profile/streak.svg" alt="GitHub Streak" width="480" />
     </td>
     <td>
       <img src="./profile/stats.svg" alt="GitHub stats" width="480" />
