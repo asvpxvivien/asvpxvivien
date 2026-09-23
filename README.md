@@ -1,36 +1,44 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0E7AC7&height=150&section=header&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&descAlignY=55&descSize=05">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0E7AC7&height=150&section=header&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&descAlignY=55&descSize=05">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0E7AC7&height=150&section=header&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&descAlignY=55&descSize=18" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6FD3FF,55:38A8E0,100:1B6F9C&height=150&section=header&animation=twinkling">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:38A8E0,55:1B7FB8,100:1466A0&height=150&section=header&animation=twinkling">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6FD3FF,55:38A8E0,100:1B6F9C&height=150&section=header&animation=twinkling" alt="" />
   </picture>
 </div>
 
+<h1 align="center">Hi, I'm Vivien.</h1>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=900&size=28&duration=3000&pause=800&color=0075FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Flutter+%7C+Mobile+App+Developer" alt="Typing Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Sora&weight=800&size=28&duration=3000&pause=800&color=38A8E0&center=true&vCenter=true&multiline=true&width=600&height=90&lines=Mobile+Developer,+Product+Builder.">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Sora&weight=800&size=28&duration=3000&pause=800&color=1B7FB8&center=true&vCenter=true&multiline=true&width=600&height=90&lines=Mobile+Developer,+Product+Builder.">
+    <img src="https://readme-typing-svg.demolab.com/?font=Sora&weight=800&size=28&duration=3000&pause=800&color=38A8E0&center=true&vCenter=true&multiline=true&width=600&height=90&lines=Mobile+Developer,+Product+Builder." alt="Mobile Developer, Product Builder." />
+  </picture>
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🌟-OPEN%20TO%20WORK-FF6B6B?style=for-the-badge&labelColor=4ECDC4&logoColor=white" />
-  <img src="https://img.shields.io/badge/📱-MOBILE%20EXPERT-4ECDC4?style=for-the-badge&labelColor=FF9F43&logoColor=white" />
-  <img src="https://img.shields.io/badge/🎨-UI%20ARTIST-FF9F43?style=for-the-badge&labelColor=A55EEA&logoColor=white" />
+  <img src="https://img.shields.io/badge/🌟-OPEN%20TO%20WORK-38A8E0?style=for-the-badge&labelColor=10141D" />
+  <img src="https://img.shields.io/badge/📱-MOBILE%20EXPERT-1B6F9C?style=for-the-badge&labelColor=10141D" />
+  <img src="https://img.shields.io/badge/🎨-UI%20ARTIST-161B26?style=for-the-badge&labelColor=10141D" />
 </p>
 
 ---
 
-##  **WHO AM I?**
+<sub><code>ABOUT</code></sub>
+
+## Who I am.
 
 <table>
 <tr>
 <td width="60%">
 
-###  **Mobile Developer**
-> Transforming ideas into **stunning mobile experiences**
+### Mobile Developer
+> I turn product ideas into mobile apps people actually use.
 
- **Creative Vision** → Designing interfaces that users **fall in love with**  
- **Technical Mastery** → Building apps that **perform flawlessly**  
- **Innovation Drive** → Always pushing the **boundaries** of what's possible  
- **Attention to Detail** → Every pixel, every animation, **perfectly crafted**
+**Design** → Clear interfaces, built around how people use their phone  
+**Build** → Flutter apps that stay smooth on real devices  
+**Product** → From the first Figma screen to a working release  
+**Detail** → Spacing, states and animations checked screen by screen
 
 </td>
 <td width="40%">
@@ -38,7 +46,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="Flutter Animation"/>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=asvpxvivien&label=👀%20Profile%20Views&color=0075FF&style=plastic" />
+  <img src="https://komarev.com/ghpvc/?username=asvpxvivien&label=👀%20Profile%20Views&color=38A8E0&style=plastic" />
 </div>
 
 </td>
@@ -46,9 +54,22 @@
 </table>
 
 ---
+
+<sub><code>PORTFOLIO</code></sub>
+
+## The work.
+
+<a href="https://vivamg.dev" target="_blank">
+  <img src="./assets/portfolio-card.svg" width="100%" alt="See the apps I have shipped on vivamg.dev" />
+</a>
+
+---
+
 <div align="center">
 
-###  My Creative Arsenal
+<sub><code>STACK</code></sub>
+
+### My Creative Arsenal.
 <table>
 <tr>
 <td align="center"><strong>Languages</strong></td>
@@ -76,7 +97,7 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </td>
 </tr>
 <tr>
@@ -103,55 +124,72 @@
 
 ---
 
-## **GITHUB UNIVERSE**
+<sub><code>ACTIVITY</code></sub>
+
+## GitHub Universe.
 
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=asvpxvivien&theme=tokyonight&hide_border=true&stroke=0000&ring=0E7AC7&fire=FF6B6B&currStreakLabel=4ECDC4" alt="GitHub Streak" width="480" />
+      <img src="https://streak-stats.demolab.com/?user=asvpxvivien&hide_border=true&background=050609&ring=38A8E0&fire=6FD3FF&currStreakLabel=38A8E0&sideLabels=B8C0CF&dates=7A8497&sideNums=F4F7FB&currStreakNum=F4F7FB" alt="GitHub Streak" width="480" />
     </td>
     <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=asvpxvivien&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" width="480" />
+      <img src="./profile/stats.svg" alt="GitHub stats" width="480" />
     </td>
   </tr>
 </table>
 
+<div align="center">
+  <img src="./profile/top-langs.svg" alt="Top languages" width="400" />
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/snake-light.svg" />
+    <img src="./profile/snake-dark.svg" alt="Contribution graph eaten by a snake" />
+  </picture>
+</div>
+
 ---
 
+<sub><code>APPROACH</code></sub>
 
-##  **CREATIVE PLAYGROUND** 
+## Creative Playground.
 
 <div align="center">
 <table>
 <tr>
 <td width="25%" align="center">
 
-###  **Design-First**
-Beautiful, intuitive interfaces that users love
+### Design-First
+Interfaces that are clear from the first tap
 
 <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="80"/>
 
 </td>
 <td width="25%" align="center">
 
-###  **Performance**
-Optimized code for smooth, responsive experiences
+### Performance
+Smooth scrolling and fast startup on real devices
 
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80"/>
 
 </td>
 <td width="25%" align="center">
 
-###  **Clean Code**
-Maintainable, scalable, and well-documented
+### Clean Code
+Readable, tested and easy to hand over
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="80"/>
 
 </td>
 <td width="25%" align="center">
 
-###  **Innovation**
-Always exploring cutting-edge technologies
+### Innovation
+New tools tried on side projects before client work
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="80"/>
 
@@ -162,8 +200,9 @@ Always exploring cutting-edge technologies
 
 ---
 
+<sub><code>CONTACT</code></sub>
 
-## **FIND ME ON**
+## Let's talk.
 
 <div align="center">
 
@@ -171,7 +210,7 @@ Always exploring cutting-edge technologies
 <tr>
 <td align="center" border="0">
 <a href="https://x.com/mobile_stacks" target="_blank">
-<img src="https://cdn.simpleicons.org/x/000000" width="42" alt="X" />
+<img src="https://cdn.simpleicons.org/x/0A0C10/F4F7FB" width="42" alt="X" />
 </a>
 </td>
 
@@ -195,7 +234,7 @@ Always exploring cutting-edge technologies
 
 <td align="center" border="0">
 <a href="https://vivamg.dev" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/globe2.svg" width="42" alt="Portfolio" />
+<img src="./assets/monogram.svg" width="42" alt="Portfolio vivamg.dev" />
 </a>
 </td>
 </tr>
@@ -206,16 +245,19 @@ Always exploring cutting-edge technologies
 ---
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0E7AC7&height=150&section=footer&fontSize=24&fontColor=fff&animation=fadeIn&fontAlignY=65">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0E7AC7&height=150&section=footer&fontSize=24&fontColor=fff&animation=fadeIn&fontAlignY=65">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0E7AC7&height=150&section=footer&fontSize=24&fontColor=fff&animation=fadeIn&fontAlignY=65" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1B6F9C,45:38A8E0,100:6FD3FF&height=150&section=footer&animation=fadeIn">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1466A0,45:1B7FB8,100:38A8E0&height=150&section=footer&animation=fadeIn">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B6F9C,45:38A8E0,100:6FD3FF&height=150&section=footer&animation=fadeIn" alt="" />
   </picture>
 </div>
 <br>
 <br>
 <div align="center">
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=900&size=28&duration=3000&pause=800&color=0075FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Thank+you+for+visiting+!;Open+to+collab+📩;" alt="Footer Animation" />
-   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Sora&weight=800&size=28&duration=3000&pause=800&color=38A8E0&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Thanks+for+visiting.;Open+to+collab+📩">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Sora&weight=800&size=28&duration=3000&pause=800&color=1B7FB8&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Thanks+for+visiting.;Open+to+collab+📩">
+    <img src="https://readme-typing-svg.demolab.com/?font=Sora&weight=800&size=28&duration=3000&pause=800&color=38A8E0&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Thanks+for+visiting.;Open+to+collab+📩" alt="Thanks for visiting." />
+  </picture>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 </div>
-
