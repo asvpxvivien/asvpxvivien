@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1B6F9C&height=150&section=header&animation=twinkling" width="100%" alt="" />
 </div>
 
-<p align="center"><kbd>&nbsp;<b>EN</b>&nbsp;</kbd>&nbsp;&nbsp;<a href="https://github.com/asvpxvivien/asvpxvivien/blob/main/README.fr.md"><kbd>&nbsp;FR&nbsp;</kbd></a></p>
-
 <h1 align="center">Hi, I'm Vivien. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Smiling%20Eyes.png" width="40" /></h1>
 
 <div align="center">
@@ -18,6 +16,12 @@
   <kbd>&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Green%20Circle.png" height="16" />&nbsp; Open to work&nbsp;</kbd>&nbsp;&nbsp;
   <kbd>&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" height="16" />&nbsp; Mobile expert&nbsp;</kbd>&nbsp;&nbsp;
   <kbd>&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" height="16" />&nbsp; UI artist&nbsp;</kbd>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" height="20" />&nbsp; This page is in English. Prefer French?&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" height="20" />&nbsp;
+  <a href="https://github.com/asvpxvivien/asvpxvivien/blob/main/README.fr.md"><kbd>&nbsp;<b>Lire en français</b>&nbsp;</kbd></a>
 </p>
 
 ---
